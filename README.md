@@ -34,7 +34,7 @@ I'm a Systems Engineering student at <strong>UNMSM<strong> and Frontend develope
 ## Contact:
 
 <p align="center">
-    <a href="www.linkedin.com/in/stevenssifuentesálvarez"> 
+    <a href="https://www.linkedin.com/in/stevenssifuentesálvarez"> 
         <img src="https://img.icons8.com/color/344/linkedin.png" style="width:40px; height:40px;" />
     </a>
     <a href="https://wa.me/51921134500"> 
