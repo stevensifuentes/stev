@@ -3,7 +3,7 @@
 <hr>
 
 <p align="justify">
-I'm a Systems Engineering student at <strong>UNMSM<strong> and Frontend developer. I'm currently learning backend with Nodejs and learning more about Frontend and how to improve my skills.
+I'm a Systems Engineering student at <strong>UNMSM</strong> and Frontend developer. I'm currently learning backend with Nodejs and learning more about Frontend and how to improve my skills.
 </p>
 
 <hr>
@@ -11,25 +11,24 @@ I'm a Systems Engineering student at <strong>UNMSM<strong> and Frontend develope
 ## 🚀 Skills
 
 - ### Frontend Development
-<img src="https://img.icons8.com/color/48/000000/html-5.png">
-<img src="https://img.icons8.com/color/48/000000/css3.png">
-<img src="https://img.icons8.com/color/48/000000/javascript.png">
-<img src="https://img.icons8.com/color/48/000000/bootstrap.png">
-<img src="https://img.icons8.com/color/48/000000/react-native.png">
+<img src="https://img.icons8.com/color/48/000000/html-5.png" />
+<img src="https://img.icons8.com/color/48/000000/css3.png" />
+<img src="https://img.icons8.com/color/48/000000/javascript.png" />
+<img src="https://img.icons8.com/color/48/000000/bootstrap.png" />
+<img src="https://img.icons8.com/color/48/000000/react-native.png" />
 
 - ### Backend Development
-<img src="https://img.icons8.com/color/48/000000/nodejs.png">
-<img src="https://img.icons8.com/color/48/000000/mongodb.png">
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png">
+<img src="https://img.icons8.com/color/48/000000/nodejs.png" />
+<img src="https://img.icons8.com/color/48/000000/mongodb.png" />
+<img src="https://img.icons8.com/color/48/000000/mysql-logo.png" />
 
 - ### Tools
-<img src="https://code.visualstudio.com/assets/branding/app-icon.png" style="width:48px; height:48px"/>
+<img src="https://code.visualstudio.com/assets/branding/app-icon.png" style="width:48px; height:48px" />
 <img src="https://img.icons8.com/color/48/000000/git.png"/>
-<img src="https://img.icons8.com/color/48/000000/firebase.png">
-<img src="https://img.icons8.com/color/48/000000/figma.png">
+<img src="https://img.icons8.com/color/48/000000/firebase.png"/>
+<img src="https://img.icons8.com/color/48/000000/figma.png" />
 
 <hr>
-
 
 ## Contact:
 
@@ -44,9 +43,3 @@ I'm a Systems Engineering student at <strong>UNMSM<strong> and Frontend develope
         <img src="https://img.icons8.com/color/344/gmail.png" style="width:40px; height:40px;" />
     </a>
 </p>
-
-
-
-
-
-
