@@ -3,7 +3,7 @@
 <hr>
 
 <p align="justify">
-I'm a Systems Engineering student at <strong>UNMSM</strong> and Frontend developer. I'm currently learning backend with Nodejs and learning more about Frontend and how to improve my skills.
+I'm a Systems Engineering student at UNMSM and Frontend developer. I'm currently learning backend with Nodejs and learning more about Frontend and how to improve my skills.
 </p>
 
 <hr>
@@ -11,22 +11,22 @@ I'm a Systems Engineering student at <strong>UNMSM</strong> and Frontend develop
 ## 🚀 Skills
 
 - ### Frontend Development
-<img src="https://img.icons8.com/color/48/000000/html-5.png">
-<img src="https://img.icons8.com/color/48/000000/css3.png">
-<img src="https://img.icons8.com/color/48/000000/javascript.png">
-<img src="https://img.icons8.com/color/48/000000/bootstrap.png">
-<img src="https://img.icons8.com/color/48/000000/react-native.png">
+<img src="https://img.icons8.com/color/48/000000/html-5.png"/>
+<img src="https://img.icons8.com/color/48/000000/css3.png"/>
+<img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+<img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
+<img src="https://img.icons8.com/color/48/000000/react-native.png"/>
 
 - ### Backend Development
-<img src="https://img.icons8.com/color/48/000000/nodejs.png">
-<img src="https://img.icons8.com/color/48/000000/mongodb.png">
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png">
+<img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+<img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
 
 - ### Tools
 <img src="https://code.visualstudio.com/assets/branding/app-icon.png" style="width:48px; height:48px"/>
 <img src="https://img.icons8.com/color/48/000000/git.png"/>
-<img src="https://img.icons8.com/color/48/000000/firebase.png">
-<img src="https://img.icons8.com/color/48/000000/figma.png">
+<img src="https://img.icons8.com/color/48/000000/firebase.png"/>
+<img src="https://img.icons8.com/color/48/000000/figma.png"/>
 
 <hr>
 
@@ -35,13 +35,13 @@ I'm a Systems Engineering student at <strong>UNMSM</strong> and Frontend develop
 
 <p align="center">
     <a href="https://www.linkedin.com/in/stevenssifuentesálvarez"> 
-        <img src="https://img.icons8.com/material-rounded/344/linkedin--v1.png" style="width:40px; height:40px;" />
+        <img src="https://img.icons8.com/color/344/linkedin.png" style="width:40px; height:40px;" />
     </a>
     <a href="https://wa.me/51921134500"> 
-        <img src="https://img.icons8.com/material-rounded/344/whatsapp--v1.png" style="width:40px; height:40px;" />
+        <img src="https://img.icons8.com/color/344/whatsapp.png" style="width:40px; height:40px;" />
     </a>
     <a href="mailto:stevens.sifuentes@unmsm.edu.pe"> 
-        <img src="https://img.icons8.com/material-rounded/344/filled-message.png" style="width:40px; height:40px;" />
+        <img src="https://img.icons8.com/color/344/gmail.png" style="width:40px; height:40px;" />
     </a>
 </p>
 
