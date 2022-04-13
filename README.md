@@ -3,7 +3,7 @@
 <hr>
 
 <p align="justify">
-I'm a Systems Engineering student at <strong>UNMSM<strong> and Frontend developer. I'm currently learning backend with Nodejs and learning more about Frontend and how to improve my skills.
+I'm a Systems Engineering student at <strong>UNMSM</strong> and Frontend developer. I'm currently learning backend with Nodejs and learning more about Frontend and how to improve my skills.
 </p>
 
 <hr>
@@ -35,13 +35,13 @@ I'm a Systems Engineering student at <strong>UNMSM<strong> and Frontend develope
 
 <p align="center">
     <a href="https://www.linkedin.com/in/stevenssifuentesálvarez"> 
-        <img src="https://img.icons8.com/color/344/linkedin.png" style="width:40px; height:40px;" />
+        <img src="https://img.icons8.com/material-rounded/344/linkedin--v1.png" style="width:40px; height:40px;" />
     </a>
     <a href="https://wa.me/51921134500"> 
-        <img src="https://img.icons8.com/color/344/whatsapp.png" style="width:40px; height:40px;" />
+        <img src="https://img.icons8.com/material-rounded/344/whatsapp--v1.png" style="width:40px; height:40px;" />
     </a>
     <a href="mailto:stevens.sifuentes@unmsm.edu.pe"> 
-        <img src="https://img.icons8.com/color/344/gmail.png" style="width:40px; height:40px;" />
+        <img src="https://img.icons8.com/material-rounded/344/filled-message.png" style="width:40px; height:40px;" />
     </a>
 </p>
 
