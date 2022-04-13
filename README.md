@@ -1,12 +1,12 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Stevens Sifuentes😁</h1>
 
-<hr>
+<hr />
 
 <p align="justify">
 I'm a Systems Engineering student at <strong>UNMSM</strong> and Frontend developer. I'm currently learning backend with Nodejs and learning more about Frontend and how to improve my skills.
 </p>
 
-<hr>
+<hr />
 
 ## 🚀 Skills
 - ### Frontend Development
@@ -27,7 +27,7 @@ I'm a Systems Engineering student at <strong>UNMSM</strong> and Frontend develop
 <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
 <img src="https://img.icons8.com/color/48/000000/figma.png" />
 
-<hr>
+<hr />
 
 ## Contact:
 
