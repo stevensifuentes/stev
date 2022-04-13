@@ -9,27 +9,33 @@ I'm a Systems Engineering student at UNMSM and Frontend developer. I'm currently
 <hr>
 
 ## 🚀 Skills
-
 - ### Frontend Development
-<img src="https://img.icons8.com/color/48/000000/html-5.png"/>
-<img src="https://img.icons8.com/color/48/000000/css3.png"/>
-<img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-<img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
-<img src="https://img.icons8.com/color/48/000000/react-native.png"/>
-
+<p align="center">
+    <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
+    <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+    <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+    <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
+    <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
+</p
+   
 - ### Backend Development
-<img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-<img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+<p align="center">
+    <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+    <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+    <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+</p>
+
+
 
 - ### Tools
-<img src="https://code.visualstudio.com/assets/branding/app-icon.png" style="width:48px; height:48px"/>
-<img src="https://img.icons8.com/color/48/000000/git.png"/>
-<img src="https://img.icons8.com/color/48/000000/firebase.png"/>
-<img src="https://img.icons8.com/color/48/000000/figma.png"/>
+<p align="center">
+    <img src="https://code.visualstudio.com/assets/branding/app-icon.png" style="width:48px; height:48px" />
+    <img src="https://img.icons8.com/color/48/000000/git.png" />
+    <img src="https://img.icons8.com/color/48/000000/firebase.png" />
+    <img src="https://img.icons8.com/color/48/000000/figma.png" />
+</p>
 
 <hr>
-
 
 ## Contact:
 
@@ -44,9 +50,3 @@ I'm a Systems Engineering student at UNMSM and Frontend developer. I'm currently
         <img src="https://img.icons8.com/color/344/gmail.png" style="width:40px; height:40px;" />
     </a>
 </p>
-
-
-
-
-
-
